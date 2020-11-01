@@ -1,4 +1,4 @@
-# change-text-extension - Change the title in a web page 
+# Extension - Change the title in a web page 
 
 To test this extension you have to follow the following steps:
   - Download the folder "ChangeTitle" in https://github.com/bonfantimariano/change-text-extension.git
